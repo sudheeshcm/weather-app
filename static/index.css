@@ -1,0 +1,11 @@
+.title {
+  color: blue;
+}
+
+.check-button {
+  margin: 0 12px;
+}
+
+.check-button:hover {
+  background-color: lightgray;
+}
